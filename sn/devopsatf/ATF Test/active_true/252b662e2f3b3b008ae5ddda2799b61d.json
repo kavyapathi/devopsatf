@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "copied_from": null,
+  "description": "This test validates incident creation",
+  "enable_parameterized_testing": false,
+  "name": "devops_test2_incident",
+  "parameters": null,
+  "remember": null,
+  "sys_class_name": "sys_atf_test",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-13 07:35:59",
+  "sys_id": "252b662e2f3b3b008ae5ddda2799b61d",
+  "sys_mod_count": 0,
+  "sys_name": "devops_test2_incident",
+  "sys_package": "2b79a666dbf3330011c27a61399619b1",
+  "sys_policy": null,
+  "sys_scope": "2b79a666dbf3330011c27a61399619b1",
+  "sys_update_name": "sys_atf_test_252b662e2f3b3b008ae5ddda2799b61d",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-13 07:35:59"
+}
